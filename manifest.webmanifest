@@ -1,0 +1,12 @@
+{
+  "name": "Reflect",
+  "short_name": "Reflect",
+  "id": "com.example.gamename",
+  "description": "Move the mirrors to collect all the stars and get the trophy",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
